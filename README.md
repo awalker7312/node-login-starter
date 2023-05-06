@@ -28,6 +28,23 @@ docker-compose up
 
 #### 5. Open app in browser
 http://localhost:8080
+
+
+## Screenshots
+
+#### Signup Page
+![Signup](screenshots/signup.png "Signup Page")
+
+#### Login Page
+![Login](screenshots/login.png "Login Page")
+
+#### Dashboard
+![Dashboard](screenshots/dashboard.png "Dashboard")
+
+#### Edit Profile
+![Profile](screenshots/profile.png "Edit Profile")
+
+
 ## Tech Stack
 
 **Front end:** HTML, CSS, Bootstrap
